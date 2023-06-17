@@ -17,7 +17,7 @@ Try it in your own browser after the Installation of npm and its packages.: http
 
 ## Screenshots
 
-![App Screenshot]([https://scontent.fpat3-1.fna.fbcdn.net/v/t39.30808-6/350778857_1249138182638246_5468853691035591519_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=h7Jq0EEZT4UAX8ii5tA&_nc_oc=AQkPuS9H7dqZvnh5ya-d8vVUfFwvN-WAlAz5pirD98VvKPvK82j_RI4rfts7E4nspm_jWe5CFcR9kGkQ3ElUxtZW&_nc_ht=scontent.fpat3-1.fna&oh=00_AfCdW3dxvhvQOaJT3wN8T-ZBEOoDEetmW6O_nW5sUvsuNA&oe=647E8E4C](https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/350778857_1249138182638246_5468853691035591519_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Q8SWflVbwycAX8xCjuq&_nc_oc=AQlVpy7D_AmaoXDEYH4J8dkVSkplbOLkumAhWgm9FnSlGIVda--E7-ZZ3uHP3GJu3jM&_nc_ht=scontent.fmaa8-1.fna&oh=00_AfA6bKNFU2kjsy8O9RHYi2qOF_oPa0yK4CWiobuL2Ud8Og&oe=649254CC))
+![App Screenshot](https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/350778857_1249138182638246_5468853691035591519_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=Q8SWflVbwycAX8xCjuq&_nc_oc=AQlVpy7D_AmaoXDEYH4J8dkVSkplbOLkumAhWgm9FnSlGIVda--E7-ZZ3uHP3GJu3jM&_nc_ht=scontent.fmaa8-1.fna&oh=00_AfA6bKNFU2kjsy8O9RHYi2qOF_oPa0yK4CWiobuL2Ud8Og&oe=649254CC)
 
 
 ## Run Locally
