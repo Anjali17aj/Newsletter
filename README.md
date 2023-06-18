@@ -31,7 +31,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Newsletter-Web_App
+  cd Newsletter
 ```
 
 Install dependencies
