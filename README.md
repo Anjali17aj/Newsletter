@@ -102,9 +102,3 @@ Working with Express.js: Express.js is a popular web application framework for N
 Handling HTTP requests: Express.js provided a clean and straightforward API for handling various types of HTTP requests, such as GET, POST, PUT. It allows you to define routes and associate them with specific request methods to handle incoming client requests.
 
 API Integration: Integrating external APIs, such as the Mailchimp API for newsletter functionality, taught me how to make API calls from the backend to interact with third-party services. Additionally, I understood the importance of securely storing and managing API keys to protect sensitive information.
-
-
-## Authors
-
-- [@Anjali17aj](https://github.com/Anjali17aj)
-
