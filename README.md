@@ -66,7 +66,7 @@ Visit you web browser :
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
+| `api_key` | `alphanumeric` | **Required**. Your API key |
 
 #### Get item
 
@@ -76,7 +76,7 @@ Visit you web browser :
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+| `id`      | `numeric` | **Required**. Id of item to fetch |
 
 
 
